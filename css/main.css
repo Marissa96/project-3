@@ -31,7 +31,7 @@ li {
   padding-bottom: 1em;
 }
 
-/* original logo colour #046738 */
+/* original logo colour #046738.   red colour #e84141 */
 header {
 }
 
@@ -57,6 +57,19 @@ h2 {
   padding-bottom: 0.5em;
   padding-left: 0.25em;
 }
+
+.bold {
+  margin: 0;
+  padding-bottom: 0.2em;
+  text-align: center;
+}
+
+.specials {
+  margin: 0;
+  padding-bottom: 0.8em;
+  text-align: center;
+}
+
 
 footer {
   background-color: black;
