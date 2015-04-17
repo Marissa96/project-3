@@ -31,8 +31,31 @@ li {
   padding-bottom: 1em;
 }
 
-/* original logo colour #046738.   red colour #e84141 */
+/* original logo colour #046738.   red colour #e75252 */
 header {
+}
+
+.map {
+  width: 100%;
+  padding-bottom: 1em;
+}
+
+img {
+  width: 85%;
+  position: relative;
+  left: 7%
+}
+
+.window {
+  background-color: #e75252;
+}
+
+div {
+  background-color: #e75252;
+}
+
+figure {
+  margin: 0;
 }
 
 h1 {
@@ -51,8 +74,9 @@ h1 {
 }
 
 h2 {
+  background-image: url("../images/wood.jpg");
+  background-width: 100%;
   color: white;
-  background-color: black;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-left: 0.25em;
@@ -70,8 +94,25 @@ h2 {
   text-align: center;
 }
 
+.bottom-red {
+  background-color: #e75252;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
 
 footer {
-  background-color: black;
+  background-image: url("../images/wood.jpg");
   color: white;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  text-align: center;
+  margin-top: 1em;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
 }
