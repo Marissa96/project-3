@@ -29,8 +29,12 @@ li {
   text-align: center;
   padding-top: 1em;
   padding-bottom: 1em;
+  border-left: 1px solid white;
 }
 
+li:hover {
+  background-color: #c94848;
+}
 /* original logo colour #046738.   red colour #e75252 */
 header {
 }
@@ -43,7 +47,35 @@ header {
 img {
   width: 85%;
   position: relative;
-  left: 7%
+  left: 7%;
+  display: block;
+}
+
+.gms {
+  font-style: italic;
+  color: white;
+  text-align: center;
+  padding-top: 0.25em;
+}
+
+.a-d-b {
+  padding-bottom: 2.5em;
+  font-style: italic;
+  color: white;
+  text-align: center;
+  padding-top: 0.25em;
+}
+
+}
+
+.breakfast {
+  padding-top: 2.5em;
+  position: relative;
+}
+
+.burger {
+  padding-top: 2em;
+  position: relative;
 }
 
 .window {
@@ -80,6 +112,15 @@ h2 {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-left: 0.25em;
+  margin-bottom: 0;
+}
+.a-u {
+  margin-bottom: 0.5em;
+}
+
+.s {
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 .bold {
