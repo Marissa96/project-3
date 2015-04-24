@@ -27,6 +27,7 @@ li {
   padding-top: 1em;
   padding-bottom: 1em;
   border-left: 1px solid white;
+  font-family: 'Open Sans', sans-serif;
 }
 
 li:hover {
@@ -48,17 +49,20 @@ h1 {
   text-align: center;
   margin: 0;
   padding-bottom: 0.25em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .top1 {
   text-align: center;
   margin: 0;
   padding-bottom: 0.1em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .top2 {
   text-align: center;
   margin-top: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .map {
@@ -81,6 +85,7 @@ img {
   color: white;
   text-align: center;
   padding-top: 0.25em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .a-d-b {
@@ -89,6 +94,7 @@ img {
   color: white;
   text-align: center;
   padding-top: 0.25em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .breakfast {
@@ -122,19 +128,23 @@ h2 {
   padding-bottom: 0.5em;
   padding-left: 0.25em;
   margin-bottom: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .p {
   padding-left: 0.3em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .a-u {
   margin-bottom: 0.5em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .s {
   margin-top: 0;
   margin-bottom: 0.5em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .bold {
@@ -142,12 +152,14 @@ h2 {
   padding-bottom: 0.2em;
   text-align: center;
   color: #e75252;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .specials {
   margin: 0;
   padding-bottom: 0.8em;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .bottom-red {
@@ -155,6 +167,7 @@ h2 {
   color: white;
   margin: 0;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -165,6 +178,7 @@ footer {
   padding-bottom: 0.75em;
   text-align: center;
   margin-top: 1em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .back-to-top:hover {
@@ -176,4 +190,5 @@ a {
   color: white;
   text-decoration: none;
   list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
 }
