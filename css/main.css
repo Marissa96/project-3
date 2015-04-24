@@ -17,9 +17,6 @@ ol {
   overflow: hidden;
 }
 
-nav li {
-}
-
 li {
   list-style-type: none;
   background-color: #e75252;
@@ -35,13 +32,33 @@ li {
 li:hover {
   background-color: #c94848;
 }
+
 /* original logo colour #046738.   red colour #e75252 */
+
 .logo {
-  width: 50%;
+  width: 35%;
   position: relative;
-  left: 20%;
+  left: 33%;
   margin: 0;
-  padding: 0;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 0.25em;
+}
+
+.top1 {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 0.1em;
+}
+
+.top2 {
+  text-align: center;
+  margin-top: 0;
 }
 
 .map {
@@ -74,8 +91,6 @@ img {
   padding-top: 0.25em;
 }
 
-}
-
 .breakfast {
   padding-top: 2.5em;
   position: relative;
@@ -99,21 +114,6 @@ figure {
   margin: 0;
 }
 
-h1 {
-  text-align: center;
-}
-
-.top1 {
-  text-align: center;
-  margin-bottom: 0;
-  padding-bottom: 0.1em;
-}
-
-.top2 {
-  text-align: center;
-  margin-top: 0;
-}
-
 h2 {
   background-image: url("../images/wood-2.jpg");
   background-width: 100%;
@@ -123,6 +123,11 @@ h2 {
   padding-left: 0.25em;
   margin-bottom: 0;
 }
+
+.p {
+  padding-left: 0.3em;
+}
+
 .a-u {
   margin-bottom: 0.5em;
 }
@@ -136,6 +141,7 @@ h2 {
   margin: 0;
   padding-bottom: 0.2em;
   text-align: center;
+  color: #e75252;
 }
 
 .specials {
