@@ -122,7 +122,6 @@ figure {
 
 h2 {
   background-image: url("../images/wood-2.jpg");
-  background-width: 100%;
   color: white;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
@@ -169,7 +168,6 @@ h2 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
-
 
 footer {
   background-image: url("../images/wood-2.jpg");
